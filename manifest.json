@@ -19,7 +19,7 @@
     }
   ],
   "homepage": "https://zerorequiem43.github.io/fire-info-app/",
-  "start_url": "https://zerorequiem43.github.io/fire-info-app/",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
